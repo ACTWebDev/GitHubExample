@@ -8,6 +8,8 @@ namespace GitHubExample
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("SomeThing changed");
+            Console.WriteLine("SomeThing changed again");
+
         }
     }
 }
