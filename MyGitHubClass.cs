@@ -7,6 +7,5 @@ namespace GitHubExample
     class MyGitHubClass
     {
         public int value;
-        public string data;
     }
 }
